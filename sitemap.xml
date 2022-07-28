@@ -214,20 +214,6 @@
 
   
   <url>
-    <loc>https://imnu-s1mple.github.io/tags/blog/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://imnu-s1mple.github.io/tags/hexo/</loc>
-    <lastmod>2022-07-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://imnu-s1mple.github.io/tags/MarkDown/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>daily</changefreq>
@@ -243,6 +229,20 @@
   
   <url>
     <loc>https://imnu-s1mple.github.io/tags/Maven/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://imnu-s1mple.github.io/tags/blog/</loc>
+    <lastmod>2022-07-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://imnu-s1mple.github.io/tags/hexo/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -279,14 +279,14 @@
 
   
   <url>
-    <loc>https://imnu-s1mple.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://imnu-s1mple.github.io/categories/Blog/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://imnu-s1mple.github.io/categories/Blog/</loc>
+    <loc>https://imnu-s1mple.github.io/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
