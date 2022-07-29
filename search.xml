@@ -210,40 +210,11 @@
       
         <tags>
             
-            <tag> MarkDown </tag>
-            
             <tag> Grammer </tag>
+            
+            <tag> MarkDown </tag>
             
             <tag> Java </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>在python2和python3同时存在的情况下，如何使用pip安装指定版本的包</title>
-      <link href="/posts/5.html"/>
-      <url>/posts/5.html</url>
-      
-        <content type="html"><![CDATA[<p>最近下了个python的爬虫，需要python2运行，但是需要requests库，kali上没有pip</p><p>安装requests的库之后却仍旧提示没有安装。</p><p>我们需要把requests的库约束在python2下：</p><p>只要在最开始加python2 - m即可。如：</p><pre class="line-numbers language-python" data-language="python"><code class="language-python">python2 <span class="token operator">-</span>m pip install requests<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>简单又快速。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> pip </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> MarkDown </tag>
-            
-            <tag> Grammer </tag>
-            
-            <tag> picture </tag>
             
         </tags>
       
@@ -268,9 +239,38 @@
       
         <tags>
             
+            <tag> Grammer </tag>
+            
             <tag> MarkDown </tag>
             
+            <tag> picture </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在python2和python3同时存在的情况下，如何使用pip安装指定版本的包</title>
+      <link href="/posts/5.html"/>
+      <url>/posts/5.html</url>
+      
+        <content type="html"><![CDATA[<p>最近下了个python的爬虫，需要python2运行，但是需要requests库，kali上没有pip</p><p>安装requests的库之后却仍旧提示没有安装。</p><p>我们需要把requests的库约束在python2下：</p><p>只要在最开始加python2 - m即可。如：</p><pre class="line-numbers language-python" data-language="python"><code class="language-python">python2 <span class="token operator">-</span>m pip install requests<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>简单又快速。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> pip </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
             <tag> Grammer </tag>
+            
+            <tag> MarkDown </tag>
             
             <tag> picture </tag>
             
@@ -297,9 +297,9 @@
       
         <tags>
             
-            <tag> Grammer </tag>
-            
             <tag> Maven </tag>
+            
+            <tag> Grammer </tag>
             
         </tags>
       
@@ -324,9 +324,9 @@
       
         <tags>
             
-            <tag> Grammer </tag>
-            
             <tag> Maven </tag>
+            
+            <tag> Grammer </tag>
             
         </tags>
       
@@ -351,9 +351,9 @@
       
         <tags>
             
-            <tag> MarkDown </tag>
-            
             <tag> Grammer </tag>
+            
+            <tag> MarkDown </tag>
             
             <tag> picture </tag>
             
@@ -406,9 +406,9 @@
       
         <tags>
             
-            <tag> MarkDown </tag>
-            
             <tag> Grammer </tag>
+            
+            <tag> MarkDown </tag>
             
         </tags>
       
